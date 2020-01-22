@@ -1,3 +1,5 @@
+# Yifeng Qin
+
 # Class Activity 1 part one
 
 Welcome to CS 491 - Testing and DevOps! Your first assignment is outlined below:
@@ -20,3 +22,4 @@ David
 ```
 
 To submit, just push your code to this repository. This work will be due tonight at 6pm.
+
